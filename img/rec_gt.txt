@@ -1,0 +1,1307 @@
+crop_img/cmnd1_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd1_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd1_crop_2.jpg	GIẤY CHỨNG MINH NHÂN DÂN
+crop_img/cmnd1_crop_3.jpg	SỐ 352590023
+crop_img/cmnd1_crop_4.jpg	Họ tên: 
+crop_img/cmnd1_crop_5.jpg	Sinh ngày
+crop_img/cmnd1_crop_6.jpg	15-04-2001
+crop_img/cmnd1_crop_7.jpg	Nguyên quán:
+crop_img/cmnd1_crop_8.jpg	Vĩnh Phú
+crop_img/cmnd1_crop_9.jpg	Thọai Sơn An Giang
+crop_img/cmnd1_crop_10.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd1_crop_11.jpg	Vĩnh Phú, Thoại Sơn, An Giang
+crop_img/cmnd1_crop_12.jpg	FAKER: NGUYỄN TỈNH
+crop_img/cmnd1_crop_13.jpg	Trung Phú 5
+crop_img/cmnd77_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd77_crop_1.jpg	GIẤY CHỨNG MINH NHÂN DÂN
+crop_img/cmnd77_crop_2.jpg	090469159
+crop_img/cmnd77_crop_3.jpg	LÊ VĂN BẢO TRỌNG
+crop_img/cmnd77_crop_4.jpg	03-10-1966
+crop_img/cmnd77_crop_5.jpg	Nguyên quán
+crop_img/cmnd77_crop_6.jpg	H. Yên Khánh T. Ninh Bình
+crop_img/cmnd77_crop_7.jpg	H. g Hỷ T.Thái Nguyên
+crop_img/cmnd77_crop_8.jpg	SỐ
+crop_img/cmnd77_crop_9.jpg	X. Minh Lập
+crop_img/cmnd77_crop_10.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd77_crop_11.jpg	Họ tên
+crop_img/cmnd77_crop_12.jpg	Sinh ngày
+crop_img/cmnd77_crop_13.jpg	Nơi ĐKHK thường trú
+crop_img/cmnd2_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd2_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd2_crop_2.jpg	GIẤY CHỨNG MINH NHÂN DÂN
+crop_img/cmnd2_crop_3.jpg	SỐ
+crop_img/cmnd2_crop_4.jpg	194629145
+crop_img/cmnd2_crop_5.jpg	Sinh ngày
+crop_img/cmnd2_crop_6.jpg	06-06-2000
+crop_img/cmnd2_crop_7.jpg	Nguyên quán:
+crop_img/cmnd2_crop_8.jpg	Xã Thuận Hóa
+crop_img/cmnd2_crop_9.jpg	Tuyên Hóa, Quảng Bình
+crop_img/cmnd2_crop_10.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd2_crop_11.jpg	Sơn Hóa
+crop_img/cmnd2_crop_12.jpg	Tuyên Hóa, Quảng Bình
+crop_img/cmnd2_crop_13.jpg	Họ tên:
+crop_img/cmnd2_crop_14.jpg	FAKER: NGUYỄN TỈNH
+crop_img/cmnd3_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd3_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd3_crop_2.jpg	GIẤY CHỨNG MINH NHÂN DÂN
+crop_img/cmnd3_crop_3.jpg	SỐ
+crop_img/cmnd3_crop_4.jpg	Họ tên:
+crop_img/cmnd3_crop_5.jpg	Sinh ngày:
+crop_img/cmnd3_crop_6.jpg	Khánh Hải
+crop_img/cmnd3_crop_7.jpg	Nguyên quán:
+crop_img/cmnd3_crop_8.jpg	Trần Văn Thời, Cà Mau
+crop_img/cmnd3_crop_9.jpg	Kinh Tám, Khánh
+crop_img/cmnd3_crop_10.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd3_crop_11.jpg	Bình Tây, Trần Văn Thời, Cà Mau
+crop_img/cmnd4_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd4_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd4_crop_2.jpg	CHỨNG MINH NHÂN DÂN
+crop_img/cmnd4_crop_3.jpg	00118
+crop_img/cmnd4_crop_4.jpg	Họ và tên khai sinh:
+crop_img/cmnd4_crop_5.jpg	Họ và tên gọi khác:
+crop_img/cmnd4_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd4_crop_7.jpg	Giới tính:
+crop_img/cmnd4_crop_8.jpg	Dân tộc:
+crop_img/cmnd4_crop_9.jpg	Quê quán:
+crop_img/cmnd4_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd4_crop_11.jpg	Thụy Khuê
+crop_img/cmnd4_crop_12.jpg	28/05/2028
+crop_img/cmnd4_crop_13.jpg	Tây Hồ, Hà Nội
+crop_img/cmnd4_crop_14.jpg	Số:
+crop_img/cmnd4_crop_15.jpg	Nữ
+crop_img/cmnd4_crop_16.jpg	Kinh
+crop_img/cmnd4_crop_17.jpg	Có giá trị đến:
+crop_img/cmnd5_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd5_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd5_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd5_crop_3.jpg	285731594
+crop_img/cmnd5_crop_4.jpg	Họ tên:
+crop_img/cmnd5_crop_5.jpg	Sinh ngày:
+crop_img/cmnd5_crop_6.jpg	29-08-2000
+crop_img/cmnd5_crop_7.jpg	Nguyên quán:
+crop_img/cmnd5_crop_8.jpg	Nga Điền
+crop_img/cmnd5_crop_9.jpg	Nga Sơn, Thanh Hóa
+crop_img/cmnd5_crop_10.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd5_crop_11.jpg	P.An Lộc, TX Bình Long, Bình Dương
+crop_img/cmnd5_crop_12.jpg	FAKER: NGUYỄN TỈNH
+crop_img/cmnd5_crop_13.jpg	Tổ 6, Phú Tân
+crop_img/cmnd5_crop_14.jpg	SỐ
+crop_img/cmnd6_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd6_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd6_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd6_crop_3.jpg	SỐ
+crop_img/cmnd6_crop_4.jpg	Họ tên:
+crop_img/cmnd6_crop_5.jpg	Sinh ngày:
+crop_img/cmnd6_crop_6.jpg	Nguyên quán:
+crop_img/cmnd6_crop_7.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd7_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd7_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd7_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd7_crop_3.jpg	206334519
+crop_img/cmnd7_crop_4.jpg	HẰNG NHÃ NGUYỄN
+crop_img/cmnd7_crop_5.jpg	Họ tên:
+crop_img/cmnd7_crop_6.jpg	05-05-1999
+crop_img/cmnd7_crop_7.jpg	Sinh ngày:
+crop_img/cmnd7_crop_8.jpg	Cao Nhân
+crop_img/cmnd7_crop_9.jpg	Nguyên quán:
+crop_img/cmnd7_crop_10.jpg	Thủy Nguyên, Hải Phòng
+crop_img/cmnd7_crop_11.jpg	Ngô Gia Tự
+crop_img/cmnd7_crop_12.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd7_crop_13.jpg	Gia Lâm, Long Biên, Hà Nội
+crop_img/cmnd7_crop_14.jpg	SỐ
+crop_img/cmnd8_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd8_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd8_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd8_crop_3.jpg	261004321
+crop_img/cmnd8_crop_4.jpg	Họ tên:
+crop_img/cmnd8_crop_5.jpg	Sinh ngày:
+crop_img/cmnd8_crop_6.jpg	02-05-1997
+crop_img/cmnd8_crop_7.jpg	Nguyên quán:
+crop_img/cmnd8_crop_8.jpg	Bình Sơn
+crop_img/cmnd8_crop_9.jpg	Quảng Ngãi
+crop_img/cmnd8_crop_10.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd8_crop_11.jpg	Hàm Tân, Bình Thuận
+crop_img/cmnd8_crop_12.jpg	SỐ
+crop_img/cmnd8_crop_13.jpg	TT. Tân Nghĩa
+crop_img/cmnd8_crop_14.jpg	FAKER: NGUYỄN TỈNH
+crop_img/cmnd9_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd9_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd9_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd9_crop_3.jpg	123456789
+crop_img/cmnd9_crop_4.jpg	Nguyễn Anh Tú
+crop_img/cmnd9_crop_5.jpg	23-11-1999
+crop_img/cmnd9_crop_6.jpg	Nguyên quán:
+crop_img/cmnd9_crop_7.jpg	Đà Nẵng
+crop_img/cmnd9_crop_8.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd9_crop_9.jpg	Đà Nẵng
+crop_img/cmnd9_crop_10.jpg	SỐ
+crop_img/cmnd9_crop_11.jpg	Họ tên:
+crop_img/cmnd9_crop_12.jpg	Sinh ngày:
+crop_img/cmnd10_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd10_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd10_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd10_crop_3.jpg	013555784
+crop_img/cmnd10_crop_4.jpg	Họ tên:
+crop_img/cmnd10_crop_5.jpg	Sinh ngày:
+crop_img/cmnd10_crop_6.jpg	Nguyên quán:
+crop_img/cmnd10_crop_7.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd10_crop_8.jpg	SỐ
+crop_img/cmnd11_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd11_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd11_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd11_crop_3.jpg	285698973
+crop_img/cmnd11_crop_4.jpg	Họ tên:
+crop_img/cmnd11_crop_5.jpg	Sinh ngày:
+crop_img/cmnd11_crop_6.jpg	Nguyên quán:
+crop_img/cmnd11_crop_7.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd11_crop_8.jpg	SỐ
+crop_img/cmnd12_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd12_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd12_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd12_crop_3.jpg	264475882
+crop_img/cmnd12_crop_4.jpg	NGUYỄN LÊ BẢO TRÂN
+crop_img/cmnd12_crop_5.jpg	Sinh ngày:
+crop_img/cmnd12_crop_6.jpg	15-06-1998
+crop_img/cmnd12_crop_7.jpg	Nguyên quán:
+crop_img/cmnd12_crop_8.jpg	Ninh Phước
+crop_img/cmnd12_crop_9.jpg	Ninh Thuận
+crop_img/cmnd12_crop_10.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd12_crop_11.jpg	Thái Giao,
+crop_img/cmnd12_crop_12.jpg	Phước Thái, Ninh Phước, Ninh Thuận
+crop_img/cmnd12_crop_13.jpg	SỐ
+crop_img/cmnd12_crop_14.jpg	Họ tên:
+crop_img/cmnd13_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd13_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd13_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd13_crop_3.jpg	362123697
+crop_img/cmnd13_crop_4.jpg	Họ tên:
+crop_img/cmnd13_crop_5.jpg	Sinh ngày:
+crop_img/cmnd13_crop_6.jpg	20-01-1998
+crop_img/cmnd13_crop_7.jpg	Nguyên quán:
+crop_img/cmnd13_crop_8.jpg	Thành Phố Cần Thơ
+crop_img/cmnd13_crop_9.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd13_crop_10.jpg	Thành Phố Cần Thơ
+crop_img/cmnd13_crop_11.jpg	SỐ
+crop_img/cmnd13_crop_12.jpg	Quận Ninh Kiều
+crop_img/cmnd13_crop_13.jpg	Quận Ninh Kiều
+crop_img/cmnd13_crop_14.jpg	PHẠM NGỌC MẠNH
+crop_img/cmnd14_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd14_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd14_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd14_crop_3.jpg	S0183264422
+crop_img/cmnd14_crop_4.jpg	HotenFAKER NGUYENTINH
+crop_img/cmnd14_crop_5.jpg	Sinh ngày:
+crop_img/cmnd14_crop_6.jpg	01-01-1978
+crop_img/cmnd14_crop_7.jpg	Nguyên quán:
+crop_img/cmnd14_crop_8.jpg	Sơn Tiến, Hương Sơn, Hà Tĩnh
+crop_img/cmnd14_crop_9.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd14_crop_10.jpg	Sơn Tiến, Hương Sơn, Hà Tĩnh
+crop_img/cmnd14_crop_11.jpg	SỐ
+crop_img/cmnd14_crop_12.jpg	Họ tên:
+crop_img/cmnd15_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd15_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd15_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd15_crop_3.jpg	187673155
+crop_img/cmnd15_crop_4.jpg	PHẠM NGỌC MẠNH
+crop_img/cmnd15_crop_5.jpg	20-01-1998
+crop_img/cmnd15_crop_6.jpg	Sinh ngày:
+crop_img/cmnd15_crop_7.jpg	Ninh Kiều
+crop_img/cmnd15_crop_8.jpg	Nguyên quán:
+crop_img/cmnd15_crop_9.jpg	Cần Thơ
+crop_img/cmnd15_crop_10.jpg	Cần Thơ
+crop_img/cmnd15_crop_11.jpg	SỐ
+crop_img/cmnd16_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd16_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd16_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd16_crop_3.jpg	272768569
+crop_img/cmnd16_crop_4.jpg	LÊ VẠN BẢO TRỌNG
+crop_img/cmnd16_crop_5.jpg	Họ tên:
+crop_img/cmnd16_crop_6.jpg	18-09-1993
+crop_img/cmnd16_crop_7.jpg	Sinh ngày:
+crop_img/cmnd16_crop_8.jpg	Canh Nậu
+crop_img/cmnd16_crop_9.jpg	Thạch Thất, Hà Nội
+crop_img/cmnd16_crop_10.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd16_crop_11.jpg	Cót, Quận Hoàn Kiếm, Hà Nội
+crop_img/cmnd16_crop_12.jpg	36 Hàng Đào, Hàng
+crop_img/cmnd16_crop_13.jpg	SỐ
+crop_img/cmnd16_crop_14.jpg	Nguyên quán:
+crop_img/cmnd17_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd17_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd17_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd17_crop_3.jpg	015071000030
+crop_img/cmnd17_crop_4.jpg	Họ và tên:
+crop_img/cmnd17_crop_5.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd17_crop_6.jpg	Quốc tịch:
+crop_img/cmnd17_crop_7.jpg	Giới tính:
+crop_img/cmnd17_crop_8.jpg	Thanh Trì, Hà Nội
+crop_img/cmnd17_crop_9.jpg	Quê quán:
+crop_img/cmnd17_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd17_crop_11.jpg	P11 gác 2 A2 TT Dệt 8/3
+crop_img/cmnd17_crop_12.jpg	Quỳnh Mai, Hai Bà Trưng, Hà Nội
+crop_img/cmnd17_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd17_crop_14.jpg	Số:
+crop_img/cmnd17_crop_15.jpg	Nam
+crop_img/cmnd17_crop_16.jpg	24/07/1971
+crop_img/cmnd17_crop_17.jpg	24/07/2031
+crop_img/cmnd17_crop_18.jpg	Việt Nam
+crop_img/cmnd18_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd18_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd18_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd18_crop_3.jpg	026057614
+crop_img/cmnd18_crop_4.jpg	NGUYỄN HỮU TOÀN
+crop_img/cmnd18_crop_5.jpg	23-08-1988
+crop_img/cmnd18_crop_6.jpg	Quảng Ngãi
+crop_img/cmnd18_crop_7.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd18_crop_8.jpg	Huỳnh Tấn Phát, TT Nhà Bè, TP. Hồ Chí Minh
+crop_img/cmnd18_crop_9.jpg	SỐ
+crop_img/cmnd18_crop_10.jpg	Họ tên:
+crop_img/cmnd18_crop_11.jpg	1806/127/2/6/15/46
+crop_img/cmnd18_crop_12.jpg	Sinh ngày:
+crop_img/cmnd18_crop_13.jpg	Nguyên quán:
+crop_img/cmnd19_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd19_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd19_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd19_crop_3.jpg	001184014074
+crop_img/cmnd19_crop_4.jpg	Họ và tên:
+crop_img/cmnd19_crop_5.jpg	FAKER: NGUYỄN TỈNH
+crop_img/cmnd19_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd19_crop_7.jpg	Giới tính:
+crop_img/cmnd19_crop_8.jpg	Đống Đa, Hà Nội
+crop_img/cmnd19_crop_9.jpg	Nơi thường trú:
+crop_img/cmnd19_crop_10.jpg	9A Ngách 31/10 Xuân Diệu
+crop_img/cmnd19_crop_11.jpg	Quảng An, Tây Hồ, Hà Nội
+crop_img/cmnd19_crop_12.jpg	Số:
+crop_img/cmnd19_crop_13.jpg	06/04/1995
+crop_img/cmnd19_crop_14.jpg	Nữ
+crop_img/cmnd19_crop_15.jpg	Quốc tịch:
+crop_img/cmnd19_crop_16.jpg	Việt Nam
+crop_img/cmnd19_crop_17.jpg	Quê quán:
+crop_img/cmnd19_crop_18.jpg	Có giá trị đến:
+crop_img/cmnd19_crop_19.jpg	20/02/2024
+crop_img/cmnd20_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd20_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd20_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd20_crop_3.jpg	079078003570
+crop_img/cmnd20_crop_4.jpg	Họ và tên:
+crop_img/cmnd20_crop_5.jpg	PHAN TIẾN NAM
+crop_img/cmnd20_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd20_crop_7.jpg	Gioi Giới tính:
+crop_img/cmnd20_crop_8.jpg	Quốc tịch:
+crop_img/cmnd20_crop_9.jpg	Quê quán:
+crop_img/cmnd20_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd20_crop_11.jpg	Phuòng 27, Bình Thạnh, TP Hồ Chí Minh
+crop_img/cmnd20_crop_12.jpg	Có giá trị đến:
+crop_img/cmnd20_crop_13.jpg	Số:
+crop_img/cmnd20_crop_14.jpg	16/12/1978
+crop_img/cmnd20_crop_15.jpg	Việt Nam
+crop_img/cmnd20_crop_16.jpg	Bình Dương
+crop_img/cmnd20_crop_17.jpg	Quê quán:
+crop_img/cmnd20_crop_18.jpg	140/2/9 Bình Quới
+crop_img/cmnd20_crop_19.jpg	16/12/2038
+crop_img/cmnd21_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd21_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd21_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd21_crop_3.jpg	022189001510
+crop_img/cmnd21_crop_4.jpg	Họ và tên:
+crop_img/cmnd21_crop_5.jpg	PHẠM THỊ HUYỀN
+crop_img/cmnd21_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd21_crop_7.jpg	Giới tính:
+crop_img/cmnd21_crop_8.jpg	Quốc tịch:
+crop_img/cmnd21_crop_9.jpg	Quê quán:
+crop_img/cmnd21_crop_10.jpg	Quảng Ninh
+crop_img/cmnd21_crop_11.jpg	Nơi thường trú:
+crop_img/cmnd21_crop_12.jpg	Đông Triều, Quảng Ninh
+crop_img/cmnd21_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd21_crop_14.jpg	Số:
+crop_img/cmnd21_crop_15.jpg	Nữ
+crop_img/cmnd21_crop_16.jpg	Việt Nam
+crop_img/cmnd21_crop_17.jpg	Nguyễn Huệ, Đông Triều
+crop_img/cmnd21_crop_18.jpg	01/05/2029
+crop_img/cmnd21_crop_19.jpg	Có giá trị đến:
+crop_img/cmnd22_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd22_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd22_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd22_crop_3.jpg	044192000098
+crop_img/cmnd22_crop_4.jpg	Họ và tên:
+crop_img/cmnd22_crop_5.jpg	FAKER NGUYN HIẾU
+crop_img/cmnd22_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd22_crop_7.jpg	G tinN
+crop_img/cmnd22_crop_8.jpg	Quc tich Viet Nam
+crop_img/cmnd22_crop_9.jpg	Que quan Son NamThanh Pho Bac Ninh
+crop_img/cmnd22_crop_10.jpg	Bac Ninh
+crop_img/cmnd22_crop_11.jpg	Na thuang trSon Nam,Thanh Pho Bac Ninh
+crop_img/cmnd22_crop_12.jpg	Co gatn 0n13/032032
+crop_img/cmnd22_crop_13.jpg	Bac Ninh
+crop_img/cmnd22_crop_14.jpg	Số:
+crop_img/cmnd22_crop_15.jpg	15/06/2002
+crop_img/cmnd22_crop_16.jpg	Nữ
+crop_img/cmnd22_crop_17.jpg	Việt Nam
+crop_img/cmnd22_crop_18.jpg	Sơn Nam, Thành Phố Bắc Ninh
+crop_img/cmnd22_crop_19.jpg	Sơn Nam, Thành Phố Bắc Ninh
+crop_img/cmnd22_crop_20.jpg	13/03/2032
+crop_img/cmnd23_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd23_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd23_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd23_crop_3.jpg	038188014540
+crop_img/cmnd23_crop_4.jpg	Họ và tên:
+crop_img/cmnd23_crop_5.jpg	LÊ NGỌC ANH
+crop_img/cmnd23_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd23_crop_7.jpg	Giới tính:
+crop_img/cmnd23_crop_8.jpg	Quê quán:
+crop_img/cmnd23_crop_9.jpg	Thanh Hóa
+crop_img/cmnd23_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd23_crop_11.jpg	12/02/2022
+crop_img/cmnd23_crop_12.jpg	Thành phố Thanh Hóa, Thanh Hóa
+crop_img/cmnd23_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd23_crop_14.jpg	Số:
+crop_img/cmnd23_crop_15.jpg	Nữ
+crop_img/cmnd23_crop_16.jpg	12/02/1982
+crop_img/cmnd23_crop_17.jpg	Quốc tịch
+crop_img/cmnd23_crop_18.jpg	Việt Nam
+crop_img/cmnd23_crop_19.jpg	Đông Tiến, Đông Sơn
+crop_img/cmnd25_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd25_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd25_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd25_crop_3.jpg	Số:
+crop_img/cmnd25_crop_4.jpg	001097016571
+crop_img/cmnd25_crop_5.jpg	Họ và tên:
+crop_img/cmnd25_crop_6.jpg	NGUYỄN KHẮC CÔNG
+crop_img/cmnd25_crop_7.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd25_crop_8.jpg	Giới tính:
+crop_img/cmnd25_crop_9.jpg	Quốc tịch:
+crop_img/cmnd25_crop_10.jpg	Quê quán:
+crop_img/cmnd25_crop_11.jpg	Nơi thường trú:
+crop_img/cmnd25_crop_12.jpg	Xóm 7, Hoàng Kim, Mê Linh
+crop_img/cmnd25_crop_13.jpg	Hà Nội
+crop_img/cmnd25_crop_14.jpg	Có giá trị đến:
+crop_img/cmnd25_crop_15.jpg	08/12/1997
+crop_img/cmnd25_crop_16.jpg	08/12/2022
+crop_img/cmnd25_crop_17.jpg	Hoàng Kim, Mê Linh, Hà Nội
+crop_img/cmnd25_crop_18.jpg	Nam
+crop_img/cmnd25_crop_19.jpg	Việt Nam
+crop_img/cmnd26_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd26_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd26_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd26_crop_3.jpg	034085004022
+crop_img/cmnd26_crop_4.jpg	Họ và tên:
+crop_img/cmnd26_crop_5.jpg	ĐOÀN HẢI BÌNH
+crop_img/cmnd26_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd26_crop_7.jpg	Việt Nam
+crop_img/cmnd26_crop_8.jpg	Quê quán:
+crop_img/cmnd26_crop_9.jpg	Nơi thường trú:
+crop_img/cmnd26_crop_10.jpg	Tổ Nhật Tảo 3, Đông Ngạc
+crop_img/cmnd26_crop_11.jpg	Bắc Từ Liêm, Hà Nội
+crop_img/cmnd26_crop_12.jpg	Số:
+crop_img/cmnd26_crop_13.jpg	29/05/1985
+crop_img/cmnd26_crop_14.jpg	Giới tính:
+crop_img/cmnd26_crop_15.jpg	Nam
+crop_img/cmnd26_crop_16.jpg	Quốc tịch:
+crop_img/cmnd26_crop_17.jpg	Thái Thụy, Thái Bình
+crop_img/cmnd26_crop_18.jpg	Có giá trị đến:
+crop_img/cmnd26_crop_19.jpg	29/05/2025
+crop_img/cmnd27_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd27_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd27_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd27_crop_3.jpg	038085007626
+crop_img/cmnd27_crop_4.jpg	Số:
+crop_img/cmnd27_crop_5.jpg	Họ và tên:
+crop_img/cmnd27_crop_6.jpg	LÊ VĂN HẢI
+crop_img/cmnd27_crop_7.jpg	04/06/1985
+crop_img/cmnd27_crop_8.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd27_crop_9.jpg	Việt Nam
+crop_img/cmnd27_crop_10.jpg	Quốc tịch:
+crop_img/cmnd27_crop_11.jpg	Giới tính:
+crop_img/cmnd27_crop_12.jpg	Triêu Dương.Tĩnh Gia
+crop_img/cmnd27_crop_13.jpg	Quê quán:
+crop_img/cmnd27_crop_14.jpg	Thanh Hóa
+crop_img/cmnd27_crop_15.jpg	Nơi thường trú:
+crop_img/cmnd27_crop_16.jpg	TK7. Thị Trấn Tnh Gia
+crop_img/cmnd27_crop_17.jpg	Tnh Gia,Thanh Hóa
+crop_img/cmnd27_crop_18.jpg	04/06/2025
+crop_img/cmnd27_crop_19.jpg	Có giá trị đến:
+crop_img/cmnd27_crop_20.jpg	Nam
+crop_img/cmnd28_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd28_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd28_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd28_crop_3.jpg	018094020379
+crop_img/cmnd28_crop_4.jpg	Họ và tên:
+crop_img/cmnd28_crop_5.jpg	NGUYỄN TÀI LỘC
+crop_img/cmnd28_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd28_crop_7.jpg	Quốc tịch:
+crop_img/cmnd28_crop_8.jpg	Giới tính:
+crop_img/cmnd28_crop_9.jpg	Quê quán:
+crop_img/cmnd28_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd28_crop_11.jpg	Khu 5
+crop_img/cmnd28_crop_12.jpg	Đại Phúc, TP Bắc Ninh, Bắc Ninh
+crop_img/cmnd28_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd28_crop_14.jpg	02/07/2034
+crop_img/cmnd28_crop_15.jpg	Số:
+crop_img/cmnd28_crop_16.jpg	02/07/1994
+crop_img/cmnd28_crop_17.jpg	Nữ
+crop_img/cmnd28_crop_18.jpg	Việt Nam
+crop_img/cmnd28_crop_19.jpg	Đại Phúc, TP Bắc Ninh, Bắc Ninh
+crop_img/cmnd29_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd29_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd29_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd29_crop_3.jpg	092201003363
+crop_img/cmnd29_crop_4.jpg	LÊ QUỐC ANH
+crop_img/cmnd29_crop_5.jpg	Họ và tên:
+crop_img/cmnd29_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd29_crop_7.jpg	Giới tính:
+crop_img/cmnd29_crop_8.jpg	Quốc tịch:
+crop_img/cmnd29_crop_9.jpg	Quê quán:
+crop_img/cmnd29_crop_10.jpg	Cần Thơ
+crop_img/cmnd29_crop_11.jpg	Nơi thường trú:
+crop_img/cmnd29_crop_12.jpg	Vĩnh Thạnh, Cần Thơ
+crop_img/cmnd29_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd29_crop_14.jpg	Số:
+crop_img/cmnd29_crop_15.jpg	13/08/2001
+crop_img/cmnd29_crop_16.jpg	Nam
+crop_img/cmnd29_crop_17.jpg	Việt Nam
+crop_img/cmnd29_crop_18.jpg	Thanh Quới, Vĩnh Thạnh
+crop_img/cmnd29_crop_19.jpg	Qui Lân 5, Thanh Quới
+crop_img/cmnd29_crop_20.jpg	13/08/2026
+crop_img/cmnd30_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd30_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd30_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd30_crop_3.jpg	038188014540
+crop_img/cmnd30_crop_4.jpg	Họ và tên:
+crop_img/cmnd30_crop_5.jpg	LÊ NGỌC ANH
+crop_img/cmnd30_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd30_crop_7.jpg	Nữ
+crop_img/cmnd30_crop_8.jpg	Giới tính:
+crop_img/cmnd30_crop_9.jpg	Quốc tịch:
+crop_img/cmnd30_crop_10.jpg	Việt Nam
+crop_img/cmnd30_crop_11.jpg	Quê quán:
+crop_img/cmnd30_crop_12.jpg	Thanh Hóa
+crop_img/cmnd30_crop_13.jpg	Nơi thường trú:
+crop_img/cmnd30_crop_14.jpg	Thành phố Thanh Hóa, Thanh Hóa
+crop_img/cmnd30_crop_15.jpg	Có giá trị đến:
+crop_img/cmnd30_crop_16.jpg	12/02/2022
+crop_img/cmnd30_crop_17.jpg	Số:
+crop_img/cmnd30_crop_18.jpg	12/02/1982
+crop_img/cmnd30_crop_19.jpg	Đông TIến, Đông Sơn
+crop_img/cmnd30_crop_20.jpg	29/264 Quạng Trung, Đông Vệ
+crop_img/cmnd31_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd31_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd31_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd31_crop_3.jpg	034099003616
+crop_img/cmnd31_crop_4.jpg	Họ và tên:
+crop_img/cmnd31_crop_5.jpg	BÙI DỨC THẮNG
+crop_img/cmnd31_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd31_crop_7.jpg	Giới tính:
+crop_img/cmnd31_crop_8.jpg	Quốc tịch:
+crop_img/cmnd31_crop_9.jpg	Quê quán:
+crop_img/cmnd31_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd31_crop_11.jpg	Thành phố Tây Ninh, Tây Ninh
+crop_img/cmnd31_crop_12.jpg	Có giá trị đến:
+crop_img/cmnd31_crop_13.jpg	Khu phố 6, Phường 4
+crop_img/cmnd31_crop_14.jpg	Số:
+crop_img/cmnd31_crop_15.jpg	12/02/1999
+crop_img/cmnd31_crop_16.jpg	Nam
+crop_img/cmnd31_crop_17.jpg	Việt Nam
+crop_img/cmnd31_crop_18.jpg	Đông Cơ, Tiền Hải, Thái Bình
+crop_img/cmnd31_crop_19.jpg	12/02/2024
+crop_img/cmnd32_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd32_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd32_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd32_crop_3.jpg	044192000098
+crop_img/cmnd32_crop_4.jpg	Họ và tên:
+crop_img/cmnd32_crop_5.jpg	FAKER NGUYỄN HIẾU
+crop_img/cmnd32_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd32_crop_7.jpg	Giới tính:
+crop_img/cmnd32_crop_8.jpg	Quốc tịch:
+crop_img/cmnd32_crop_9.jpg	Sơn Nam, Thành Phố Bắc Ninh
+crop_img/cmnd32_crop_10.jpg	Sơn Nam, Thành Phố Bắc Ninh
+crop_img/cmnd32_crop_11.jpg	Bắc Ninh
+crop_img/cmnd32_crop_12.jpg	Có giá trị đến:
+crop_img/cmnd32_crop_13.jpg	Bắc Ninh
+crop_img/cmnd32_crop_14.jpg	Số:
+crop_img/cmnd32_crop_15.jpg	15/06/2002
+crop_img/cmnd32_crop_16.jpg	Nữ
+crop_img/cmnd32_crop_17.jpg	Việt Nam
+crop_img/cmnd32_crop_18.jpg	Quê quán:
+crop_img/cmnd32_crop_19.jpg	Nơi thường trú:
+crop_img/cmnd32_crop_20.jpg	13/03/2032
+crop_img/cmnd33_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd33_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd33_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd33_crop_3.jpg	018094020379
+crop_img/cmnd33_crop_4.jpg	Họ và tên:
+crop_img/cmnd33_crop_5.jpg	NGUYỄN TÀI LỘC
+crop_img/cmnd33_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd33_crop_7.jpg	Giới tính:
+crop_img/cmnd33_crop_8.jpg	Quê quán:
+crop_img/cmnd33_crop_9.jpg	Nơi thường trú:
+crop_img/cmnd33_crop_10.jpg	Khu5
+crop_img/cmnd33_crop_11.jpg	Đại Phúc, TP. Bắc Ninh, Bắc Ninh
+crop_img/cmnd33_crop_12.jpg	Có giá trị đến:
+crop_img/cmnd33_crop_13.jpg	Số:
+crop_img/cmnd33_crop_14.jpg	02/07/1994
+crop_img/cmnd33_crop_15.jpg	Nữ
+crop_img/cmnd33_crop_16.jpg	Quốc tịch:
+crop_img/cmnd33_crop_17.jpg	Việt Nam
+crop_img/cmnd33_crop_18.jpg	Đại Phúc, TP. Bắc Ninh, Bắc Ninh
+crop_img/cmnd33_crop_19.jpg	02/07/3034
+crop_img/cmnd34_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd34_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd34_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd34_crop_3.jpg	092201003363
+crop_img/cmnd34_crop_4.jpg	LÊ QUỐC ANH
+crop_img/cmnd34_crop_5.jpg	Họ và tên:
+crop_img/cmnd34_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd34_crop_7.jpg	Giới tính:
+crop_img/cmnd34_crop_8.jpg	Quốc tịch:
+crop_img/cmnd34_crop_9.jpg	Quê quán:
+crop_img/cmnd34_crop_10.jpg	Cần Thơ
+crop_img/cmnd34_crop_11.jpg	Nơi thường trú:
+crop_img/cmnd34_crop_12.jpg	Vinh Thạnh, Cần Thơ
+crop_img/cmnd34_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd34_crop_14.jpg	13/08/2001
+crop_img/cmnd34_crop_15.jpg	13/08/2026
+crop_img/cmnd34_crop_16.jpg	Việt Nam
+crop_img/cmnd34_crop_17.jpg	Nam
+crop_img/cmnd34_crop_18.jpg	Thạnh Quới, Vĩnh Thạnh
+crop_img/cmnd34_crop_19.jpg	Qui Lân 5, Thạnh Quới
+crop_img/cmnd35_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd35_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd35_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd35_crop_3.jpg	038085007626
+crop_img/cmnd35_crop_4.jpg	Số:
+crop_img/cmnd35_crop_5.jpg	Họ và tên:
+crop_img/cmnd35_crop_6.jpg	LÊ VĂN HẢI
+crop_img/cmnd35_crop_7.jpg	04/06/1985
+crop_img/cmnd35_crop_8.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd35_crop_9.jpg	Việt Nam
+crop_img/cmnd35_crop_10.jpg	Nam
+crop_img/cmnd35_crop_11.jpg	Giới tính:
+crop_img/cmnd35_crop_12.jpg	Triêu Dương, Tĩnh Gia
+crop_img/cmnd35_crop_13.jpg	Quê quán:
+crop_img/cmnd35_crop_14.jpg	Thanh Hóa
+crop_img/cmnd35_crop_15.jpg	Nơi thường trú:
+crop_img/cmnd35_crop_16.jpg	Tĩnh Gia, Thanh Hóa
+crop_img/cmnd35_crop_17.jpg	04/06/2025
+crop_img/cmnd35_crop_18.jpg	Có giá trị đến:
+crop_img/cmnd35_crop_19.jpg	Quốc tịch:
+crop_img/cmnd35_crop_20.jpg	TK7, Thị Trấn Tĩnh Gia
+crop_img/cmnd36_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd36_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd36_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd36_crop_3.jpg	022189001510
+crop_img/cmnd36_crop_4.jpg	Họ và tên:
+crop_img/cmnd36_crop_5.jpg	PHẠM THỊ HUYỀN
+crop_img/cmnd36_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd36_crop_7.jpg	Giới tính:
+crop_img/cmnd36_crop_8.jpg	Quốc tịch:
+crop_img/cmnd36_crop_9.jpg	Quê quán:
+crop_img/cmnd36_crop_10.jpg	Quảng Ninh
+crop_img/cmnd36_crop_11.jpg	Nơi thường trú:
+crop_img/cmnd36_crop_12.jpg	Đông Triều, Quảng Ninh
+crop_img/cmnd36_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd36_crop_14.jpg	Số:
+crop_img/cmnd36_crop_15.jpg	09/06/1990
+crop_img/cmnd36_crop_16.jpg	Nữ
+crop_img/cmnd36_crop_17.jpg	Việt Nam
+crop_img/cmnd36_crop_18.jpg	Nguyễn Huệ, Đông Triều
+crop_img/cmnd36_crop_19.jpg	Tân Lập, Tân Việt
+crop_img/cmnd36_crop_20.jpg	01/05/2029
+crop_img/cmnd37_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd37_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd37_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd37_crop_3.jpg	001304027098
+crop_img/cmnd37_crop_4.jpg	Họ và tên:
+crop_img/cmnd37_crop_5.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd37_crop_6.jpg	Giới tính:
+crop_img/cmnd37_crop_7.jpg	Quốc tịch:
+crop_img/cmnd37_crop_8.jpg	Quê quán:
+crop_img/cmnd37_crop_9.jpg	Nơi thường trú:
+crop_img/cmnd37_crop_10.jpg	Hà Nội
+crop_img/cmnd37_crop_11.jpg	Có giá trị đến:
+crop_img/cmnd37_crop_12.jpg	Số:
+crop_img/cmnd37_crop_13.jpg	NGUYỄN THỊ LỆ THỦY
+crop_img/cmnd37_crop_14.jpg	25/10/2000
+crop_img/cmnd37_crop_15.jpg	Nữ
+crop_img/cmnd37_crop_16.jpg	Việt Nam
+crop_img/cmnd37_crop_17.jpg	Thanh Lâm, Mê Linh, Hà Nội
+crop_img/cmnd37_crop_18.jpg	Phú Hữu, Thanh Lâm, Mê Linh
+crop_img/cmnd37_crop_19.jpg	25/10/2029
+crop_img/cmnd38_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd38_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd38_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd38_crop_3.jpg	s6001097016571
+crop_img/cmnd38_crop_4.jpg	Họ và tên:
+crop_img/cmnd38_crop_5.jpg	NGUYỄN KHẮC CÔNG
+crop_img/cmnd38_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd38_crop_7.jpg	Giới tính:
+crop_img/cmnd38_crop_8.jpg	Quốc tịch:
+crop_img/cmnd38_crop_9.jpg	Quê quán:
+crop_img/cmnd38_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd38_crop_11.jpg	Xóm 7, Hoàng Kim, Mê Linh
+crop_img/cmnd38_crop_12.jpg	Hà Nội
+crop_img/cmnd38_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd38_crop_14.jpg	Số:
+crop_img/cmnd38_crop_15.jpg	08/12/1997
+crop_img/cmnd38_crop_16.jpg	Nam
+crop_img/cmnd38_crop_17.jpg	Việt Nam
+crop_img/cmnd38_crop_18.jpg	Hoàng Kim, Mê Linh, Hà Nội
+crop_img/cmnd38_crop_19.jpg	08/12/2022
+crop_img/cmnd39_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd39_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd39_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd39_crop_3.jpg	079078003570
+crop_img/cmnd39_crop_4.jpg	Họ và tên:
+crop_img/cmnd39_crop_5.jpg	PHAN TIẾN NAM
+crop_img/cmnd39_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd39_crop_7.jpg	Giới tính:
+crop_img/cmnd39_crop_8.jpg	Quốc tịch:
+crop_img/cmnd39_crop_9.jpg	Quê quán:
+crop_img/cmnd39_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd39_crop_11.jpg	Phường 27, Bình Thạnh, TP. Hồ Chí Minh
+crop_img/cmnd39_crop_12.jpg	Có giá trị đến:
+crop_img/cmnd39_crop_13.jpg	Số:
+crop_img/cmnd39_crop_14.jpg	16/12/1978
+crop_img/cmnd39_crop_15.jpg	Nam
+crop_img/cmnd39_crop_16.jpg	Việt Nam
+crop_img/cmnd39_crop_17.jpg	Bình Dương
+crop_img/cmnd39_crop_18.jpg	140/2/9 Bình Quới
+crop_img/cmnd39_crop_19.jpg	16/12/2038
+crop_img/cmnd40_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd40_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd40_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd40_crop_3.jpg	044192000098
+crop_img/cmnd40_crop_4.jpg	Họ và tên:
+crop_img/cmnd40_crop_5.jpg	FAKER NGUYỄN HIẾU
+crop_img/cmnd40_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd40_crop_7.jpg	Giới tính:
+crop_img/cmnd40_crop_8.jpg	Quốc tịch:
+crop_img/cmnd40_crop_9.jpg	Quê quán:
+crop_img/cmnd40_crop_10.jpg	Bắc Ninh
+crop_img/cmnd40_crop_11.jpg	Nơi thường trú:
+crop_img/cmnd40_crop_12.jpg	Có giá trị đến:
+crop_img/cmnd40_crop_13.jpg	Bac Ninh
+crop_img/cmnd40_crop_14.jpg	Số:
+crop_img/cmnd40_crop_15.jpg	15/06/2002
+crop_img/cmnd40_crop_16.jpg	Việt Nam
+crop_img/cmnd40_crop_17.jpg	Nữ
+crop_img/cmnd40_crop_18.jpg	Sơn Nam, Thành Phố Bắc Ninh
+crop_img/cmnd40_crop_19.jpg	Sơn Nam, Thành Phố Bắc Ninh
+crop_img/cmnd40_crop_20.jpg	13/03/2032
+crop_img/cmnd42_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd42_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd42_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd42_crop_3.jpg	038182014540
+crop_img/cmnd42_crop_4.jpg	Họ và tên:
+crop_img/cmnd42_crop_5.jpg	LÊ NGỌC ẠNH
+crop_img/cmnd42_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd42_crop_7.jpg	Giới tính:
+crop_img/cmnd42_crop_8.jpg	Quốc tịch:
+crop_img/cmnd42_crop_9.jpg	Viet Nam
+crop_img/cmnd42_crop_10.jpg	Quê quán:
+crop_img/cmnd42_crop_11.jpg	Thanh Hóa
+crop_img/cmnd42_crop_12.jpg	Nơi thường trú:
+crop_img/cmnd42_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd42_crop_14.jpg	12/02/2022
+crop_img/cmnd42_crop_15.jpg	Thành phố Thanh Hóa, Thanh Hóa
+crop_img/cmnd42_crop_16.jpg	Số:
+crop_img/cmnd42_crop_17.jpg	12/02/1982
+crop_img/cmnd42_crop_18.jpg	Nữ
+crop_img/cmnd42_crop_19.jpg	Đông Tiến, Đông Sơn
+crop_img/cmnd42_crop_20.jpg	29/264 Quang Trung, Đông Vệ
+crop_img/cmnd43_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd43_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd43_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd43_crop_3.jpg	034085004022
+crop_img/cmnd43_crop_4.jpg	ĐOÀN HẢI BÌNH
+crop_img/cmnd43_crop_5.jpg	Họ và tên:
+crop_img/cmnd43_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd43_crop_7.jpg	Nam
+crop_img/cmnd43_crop_8.jpg	Quê quán:
+crop_img/cmnd43_crop_9.jpg	Nơi thường trú:
+crop_img/cmnd43_crop_10.jpg	Bắc Từ Liêm, Hà Nội
+crop_img/cmnd43_crop_11.jpg	Số:
+crop_img/cmnd43_crop_12.jpg	29/05/1085
+crop_img/cmnd43_crop_13.jpg	Quốc tịch:
+crop_img/cmnd43_crop_14.jpg	Giới tính:
+crop_img/cmnd43_crop_15.jpg	Việt Nam
+crop_img/cmnd43_crop_16.jpg	Thái Thụy, Thái Bình
+crop_img/cmnd43_crop_17.jpg	Tổ Nhật Tảo 3, Đông Ngạc
+crop_img/cmnd43_crop_18.jpg	Có giá trị đến:
+crop_img/cmnd43_crop_19.jpg	29/05/2035
+crop_img/cmnd44_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd44_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd44_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd44_crop_3.jpg	038188014540
+crop_img/cmnd44_crop_4.jpg	Họ và tên:
+crop_img/cmnd44_crop_5.jpg	LÊ NGỌC ẠNH
+crop_img/cmnd44_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd44_crop_7.jpg	Nữ
+crop_img/cmnd44_crop_8.jpg	Giới tính:
+crop_img/cmnd44_crop_9.jpg	Quốc tịch:
+crop_img/cmnd44_crop_10.jpg	Việt Nam
+crop_img/cmnd44_crop_11.jpg	Quê quán:
+crop_img/cmnd44_crop_12.jpg	Thanh Hóa
+crop_img/cmnd44_crop_13.jpg	Nơi thường trú:
+crop_img/cmnd44_crop_14.jpg	Thành phố Thanh Hóa, Thanh Hóa
+crop_img/cmnd44_crop_15.jpg	Có giá trị đến:
+crop_img/cmnd44_crop_16.jpg	12/02/2022
+crop_img/cmnd44_crop_17.jpg	Số:
+crop_img/cmnd44_crop_18.jpg	12/02/1982
+crop_img/cmnd44_crop_19.jpg	Đông Tiến, Đông Sơn 
+crop_img/cmnd44_crop_20.jpg	29/264 Quang Trung, Đông Vệ
+crop_img/cmnd45_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd45_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd45_crop_2.jpg	SOCIALIST REPUBLIC OF VIET NAM
+crop_img/cmnd45_crop_3.jpg	Independence-Freedom-Happiness
+crop_img/cmnd45_crop_4.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd45_crop_5.jpg	Citizen Identity Card 
+crop_img/cmnd45_crop_6.jpg	079183015552
+crop_img/cmnd45_crop_7.jpg	Họ và tên / Full name:
+crop_img/cmnd45_crop_8.jpg	LÊ THỊ HI
+crop_img/cmnd45_crop_9.jpg	Ngày sinh / Date of birth:
+crop_img/cmnd45_crop_10.jpg	Giới tính / Sex:
+crop_img/cmnd45_crop_11.jpg	Quê quán / Place of origin:
+crop_img/cmnd45_crop_12.jpg	Tân Anh Hội, Củ Chi, Hồ Chí Minh
+crop_img/cmnd45_crop_13.jpg	Nơi thường trú / Palce of residence:
+crop_img/cmnd45_crop_14.jpg	Có giá trị đến:
+crop_img/cmnd45_crop_15.jpg	Thị Trấn Củ Chi, Củ Chi, Hồ Chí Minh
+crop_img/cmnd45_crop_16.jpg	Số / No:
+crop_img/cmnd45_crop_17.jpg	23/08/2000
+crop_img/cmnd45_crop_18.jpg	Nữ
+crop_img/cmnd45_crop_19.jpg	Quốc tịch / Nationality:
+crop_img/cmnd45_crop_20.jpg	Việt Nam
+crop_img/cmnd45_crop_21.jpg	Tổ 2, Khu Phố 8
+crop_img/cmnd45_crop_22.jpg	Date of expiry:
+crop_img/cmnd45_crop_23.jpg	23/08/2023
+crop_img/cmnd46_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd46_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd46_crop_2.jpg	SOCIALIST REPUBLIC OFVIET NAM
+crop_img/cmnd46_crop_3.jpg	Independence-Freedom-Happiness
+crop_img/cmnd46_crop_4.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd46_crop_5.jpg	Citizen Identity Card
+crop_img/cmnd46_crop_6.jpg	00120022120022
+crop_img/cmnd46_crop_7.jpg	Họ và tên / Full name:
+crop_img/cmnd46_crop_8.jpg	NGUYỄN THÀNH THÀNH
+crop_img/cmnd46_crop_9.jpg	Ngày sinh / Date of birth:
+crop_img/cmnd46_crop_10.jpg	Giới tính / Sex:
+crop_img/cmnd46_crop_11.jpg	Chi Đông, Mê Linh, Hà Nôi
+crop_img/cmnd46_crop_12.jpg	Tổ 1 Chi Đông
+crop_img/cmnd46_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd46_crop_14.jpg	Date of expiy:
+crop_img/cmnd46_crop_15.jpg	Mê Linh, Hà Nội
+crop_img/cmnd46_crop_16.jpg	02/11/2025
+crop_img/cmnd46_crop_17.jpg	Số / No:
+crop_img/cmnd46_crop_18.jpg	Nam
+crop_img/cmnd46_crop_19.jpg	Quốc tịch / Nationality:
+crop_img/cmnd46_crop_20.jpg	Việt Nam
+crop_img/cmnd46_crop_21.jpg	Quê quán / Place of origin:
+crop_img/cmnd46_crop_22.jpg	Nơi thường trú / Palce of residence:
+crop_img/cmnd47_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd47_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd47_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd47_crop_3.jpg	034099003616
+crop_img/cmnd47_crop_4.jpg	Họ và tên:
+crop_img/cmnd47_crop_5.jpg	BÙI ĐỨC THẮNG
+crop_img/cmnd47_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd47_crop_7.jpg	Giới tính:
+crop_img/cmnd47_crop_8.jpg	Quốc tịch:
+crop_img/cmnd47_crop_9.jpg	Quê quán:
+crop_img/cmnd47_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd47_crop_11.jpg	Thành phố Tây Ninh, Tây Ninh
+crop_img/cmnd47_crop_12.jpg	Có giá trị đến:
+crop_img/cmnd47_crop_13.jpg	Số:
+crop_img/cmnd47_crop_14.jpg	12/02/1999
+crop_img/cmnd47_crop_15.jpg	Nam
+crop_img/cmnd47_crop_16.jpg	Việt Nam
+crop_img/cmnd47_crop_17.jpg	Đông Cơ, Tiền Hải, Thái Bình
+crop_img/cmnd47_crop_18.jpg	Khu phố 6, Phường 4
+crop_img/cmnd47_crop_19.jpg	12/02/2024
+crop_img/cmnd76_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd76_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd76_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd76_crop_3.jpg	272737221
+crop_img/cmnd76_crop_4.jpg	PHẠM NGỌC MẠNH
+crop_img/cmnd76_crop_5.jpg	Sinh ngày:
+crop_img/cmnd76_crop_6.jpg	20-01-1991
+crop_img/cmnd76_crop_7.jpg	Nguyên quán:
+crop_img/cmnd76_crop_8.jpg	Cần Thơ
+crop_img/cmnd76_crop_9.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd76_crop_10.jpg	TP. Cần Thơ
+crop_img/cmnd76_crop_11.jpg	SỐ
+crop_img/cmnd76_crop_12.jpg	Họ tên:
+crop_img/cmnd76_crop_13.jpg	Ninh Kiều
+crop_img/cmnd75_crop_0.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd75_crop_1.jpg	Citizen Identity Card
+crop_img/cmnd75_crop_2.jpg	077082002709
+crop_img/cmnd75_crop_3.jpg	TRAN HONG NGOC
+crop_img/cmnd75_crop_4.jpg	Họ và tên / Full name:
+crop_img/cmnd75_crop_5.jpg	Giới tính / Sex:
+crop_img/cmnd75_crop_6.jpg	Thành phố Bà Rịa, Bà Rịa Vũng Tàu
+crop_img/cmnd75_crop_7.jpg	Quê quán / Place of origin:
+crop_img/cmnd75_crop_8.jpg	16/10/2022
+crop_img/cmnd75_crop_9.jpg	Nơi thường trú / Palce of residence:
+crop_img/cmnd75_crop_10.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd75_crop_11.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd75_crop_12.jpg	SOCIALIST REPUBLIC OF VIET NAM
+crop_img/cmnd75_crop_13.jpg	Independence-Freedom-Happiness
+crop_img/cmnd75_crop_14.jpg	Số / No:
+crop_img/cmnd75_crop_15.jpg	16/10/1982
+crop_img/cmnd75_crop_16.jpg	Ngày sinh / Date of birth:
+crop_img/cmnd75_crop_17.jpg	Nam
+crop_img/cmnd75_crop_18.jpg	Quốc tịch / Nationality:
+crop_img/cmnd75_crop_19.jpg	Việt Nam
+crop_img/cmnd75_crop_20.jpg	Long Phước
+crop_img/cmnd75_crop_21.jpg	Tổ 5, Ấp Tây
+crop_img/cmnd75_crop_22.jpg	Long Phước, TP Bà Rịa, Bà Rịa Vũng Tàu
+crop_img/cmnd75_crop_23.jpg	Có giá trị đến:
+crop_img/cmnd75_crop_24.jpg	Date of expiry:
+crop_img/cmnd74_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd74_crop_1.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd74_crop_2.jpg	261004321
+crop_img/cmnd74_crop_3.jpg	FAKER NGUYỄN TỈNH
+crop_img/cmnd74_crop_4.jpg	02-05-1997
+crop_img/cmnd74_crop_5.jpg	Bình Sơn
+crop_img/cmnd74_crop_6.jpg	Quảng Ngãi
+crop_img/cmnd74_crop_7.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd74_crop_8.jpg	Hàm Tân, Bình Thuận
+crop_img/cmnd74_crop_9.jpg	TT Tân Nghĩa
+crop_img/cmnd74_crop_10.jpg	Họ tên:
+crop_img/cmnd74_crop_11.jpg	Sinh ngày:
+crop_img/cmnd74_crop_12.jpg	Nguyên quán:
+crop_img/cmnd74_crop_13.jpg	SỐ
+crop_img/cmnd74_crop_14.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd48_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd48_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd48_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd48_crop_3.jpg	001093005551
+crop_img/cmnd48_crop_4.jpg	Họ và tên:
+crop_img/cmnd48_crop_5.jpg	NGUYỄN TIẾN TÚ
+crop_img/cmnd48_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd48_crop_7.jpg	Giới tính:
+crop_img/cmnd48_crop_8.jpg	Xuân Phú, Phúc Thọ, Hà Nôi
+crop_img/cmnd48_crop_9.jpg	An Phú, Xuân Phú, Phúc Thọ
+crop_img/cmnd48_crop_10.jpg	Hà Nội
+crop_img/cmnd48_crop_11.jpg	Có giá trị đến:
+crop_img/cmnd48_crop_12.jpg	Quốc tịch:
+crop_img/cmnd48_crop_13.jpg	Việt Nam
+crop_img/cmnd48_crop_14.jpg	13/07/1993
+crop_img/cmnd48_crop_15.jpg	Nam
+crop_img/cmnd48_crop_16.jpg	Quê quán:
+crop_img/cmnd48_crop_17.jpg	Nơi thường trú:
+crop_img/cmnd48_crop_18.jpg	13/07/2033
+crop_img/cmnd48_crop_19.jpg	Số:
+crop_img/cmnd49_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd49_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd49_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd49_crop_3.jpg	Số:
+crop_img/cmnd49_crop_4.jpg	072198002736
+crop_img/cmnd49_crop_5.jpg	Họ và tên:
+crop_img/cmnd49_crop_6.jpg	NGUYỄN THỊ KIM HUỆ
+crop_img/cmnd49_crop_7.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd49_crop_8.jpg	06/07/1998
+crop_img/cmnd49_crop_9.jpg	Giới tính:
+crop_img/cmnd49_crop_10.jpg	Quốc tịch:
+crop_img/cmnd49_crop_11.jpg	Việt Nam
+crop_img/cmnd49_crop_12.jpg	Quê quán:
+crop_img/cmnd49_crop_13.jpg	Nơi thường trú:
+crop_img/cmnd49_crop_14.jpg	Trường Tây, Hòa Thành, Tây Ninh
+crop_img/cmnd49_crop_15.jpg	Có giá trị đến:
+crop_img/cmnd49_crop_16.jpg	Nữ
+crop_img/cmnd49_crop_17.jpg	Gò Faauf, Tây Ninh
+crop_img/cmnd49_crop_18.jpg	4/83 ấp Long Hải
+crop_img/cmnd49_crop_19.jpg	06/07/2023
+crop_img/cmnd50_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd50_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd50_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd50_crop_3.jpg	1133114115116
+crop_img/cmnd50_crop_4.jpg	Họ và tên:
+crop_img/cmnd50_crop_5.jpg	Thanh Hậu
+crop_img/cmnd50_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd50_crop_7.jpg	Giới tính:
+crop_img/cmnd50_crop_8.jpg	Quê quán:
+crop_img/cmnd50_crop_9.jpg	Nơi thường trú:
+crop_img/cmnd50_crop_10.jpg	Có giá trị đến:
+crop_img/cmnd50_crop_11.jpg	Số:
+crop_img/cmnd50_crop_12.jpg	 22/01/1998
+crop_img/cmnd50_crop_13.jpg	Việt Nam
+crop_img/cmnd50_crop_14.jpg	Nam
+crop_img/cmnd50_crop_15.jpg	Quốc tịch:
+crop_img/cmnd50_crop_16.jpg	Trà Vinh
+crop_img/cmnd50_crop_17.jpg	Trà Vinh
+crop_img/cmnd50_crop_18.jpg	Không thời hạn
+crop_img/cmnd51_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd51_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd51_crop_2.jpg	CHỨNG MINH NHÂN DÂN
+crop_img/cmnd51_crop_3.jpg	001089000098
+crop_img/cmnd51_crop_4.jpg	Họ và tên khai sinh:
+crop_img/cmnd51_crop_5.jpg	NGÔ NGỌC THIẾT
+crop_img/cmnd51_crop_6.jpg	Họ và tên gọi khác:
+crop_img/cmnd51_crop_7.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd51_crop_8.jpg	Giới tính:
+crop_img/cmnd51_crop_9.jpg	Dân tộc:
+crop_img/cmnd51_crop_10.jpg	Tả Thanh Oai, Thanh Trì, Hà Nội
+crop_img/cmnd51_crop_11.jpg	Đội 1, Tả Thanh Oai, Thanh Trì
+crop_img/cmnd51_crop_12.jpg	Hà Nội
+crop_img/cmnd51_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd51_crop_14.jpg	Số:
+crop_img/cmnd51_crop_15.jpg	09/12/1989
+crop_img/cmnd51_crop_16.jpg	Nam
+crop_img/cmnd51_crop_17.jpg	Kinh
+crop_img/cmnd51_crop_18.jpg	Quê quán:
+crop_img/cmnd51_crop_19.jpg	Nơi thường trú:
+crop_img/cmnd51_crop_20.jpg	09/12/2028
+crop_img/cmnd52_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd52_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd52_crop_2.jpg	CHỨNG MINH NHÂN DÂN
+crop_img/cmnd52_crop_3.jpg	001173000668
+crop_img/cmnd52_crop_4.jpg	Họ và tên khai sinh:
+crop_img/cmnd52_crop_5.jpg	VŨ THỊ LAN
+crop_img/cmnd52_crop_6.jpg	Họ và tên gọi khác:
+crop_img/cmnd52_crop_7.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd52_crop_8.jpg	Giới tính:
+crop_img/cmnd52_crop_9.jpg	Dân tộc:
+crop_img/cmnd52_crop_10.jpg	Quê quán:
+crop_img/cmnd52_crop_11.jpg	Yên Mỹ, Hưng Yên
+crop_img/cmnd52_crop_12.jpg	Nơi thường trú:
+crop_img/cmnd52_crop_13.jpg	Số 49 Ngõ 108 Ngọc Hà
+crop_img/cmnd52_crop_14.jpg	Có giá trị đến:
+crop_img/cmnd52_crop_15.jpg	Ngọc Hà, Ba Đình, Hà Nội
+crop_img/cmnd52_crop_16.jpg	Số:
+crop_img/cmnd52_crop_17.jpg	16/02/1973
+crop_img/cmnd52_crop_18.jpg	11/11/2028
+crop_img/cmnd52_crop_19.jpg	Kinh
+crop_img/cmnd52_crop_20.jpg	Nữ
+crop_img/cmnd54_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd54_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd54_crop_2.jpg	CHỨNG MINH NHÂN DÂN
+crop_img/cmnd54_crop_3.jpg	Số:
+crop_img/cmnd54_crop_4.jpg	001183000001
+crop_img/cmnd54_crop_5.jpg	Họ và tên khai sinh:
+crop_img/cmnd54_crop_6.jpg	LÊ THỊ HỒNG VƯƠNG
+crop_img/cmnd54_crop_7.jpg	Họ và tên gọi khác:
+crop_img/cmnd54_crop_8.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd54_crop_9.jpg	Kinh
+crop_img/cmnd54_crop_10.jpg	Nữ
+crop_img/cmnd54_crop_11.jpg	Dân tộc:
+crop_img/cmnd54_crop_12.jpg	Giới tính:
+crop_img/cmnd54_crop_13.jpg	Quê quán:
+crop_img/cmnd54_crop_14.jpg	Nghĩa Dân, Kim Động, Hưng Yên
+crop_img/cmnd54_crop_15.jpg	Nơi thường trú:
+crop_img/cmnd54_crop_16.jpg	Bạch Mai, Hai Bà Trưng, Hà Nôi
+crop_img/cmnd54_crop_17.jpg	Có giá trị đến:
+crop_img/cmnd54_crop_18.jpg	18/06/1983
+crop_img/cmnd54_crop_19.jpg	88/381
+crop_img/cmnd54_crop_20.jpg	27/07/2027
+crop_img/cmnd55_crop_0.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd55_crop_1.jpg	039087004167
+crop_img/cmnd55_crop_2.jpg	VŨ ĐÌNH NHU
+crop_img/cmnd55_crop_3.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd55_crop_4.jpg	Việt Nam
+crop_img/cmnd55_crop_5.jpg	Văn Lý, Lý Nhân, Hà Nam
+crop_img/cmnd55_crop_6.jpg	11/07/2027
+crop_img/cmnd55_crop_7.jpg	Thị Trấn Lâm, Ý Yên, Nam Định
+crop_img/cmnd55_crop_8.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd55_crop_9.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd55_crop_10.jpg	Số:
+crop_img/cmnd55_crop_11.jpg	Họ và tên:
+crop_img/cmnd55_crop_12.jpg	Giới tính:
+crop_img/cmnd55_crop_13.jpg	Nam
+crop_img/cmnd55_crop_14.jpg	Quốc tịch:
+crop_img/cmnd55_crop_15.jpg	Quê quán:
+crop_img/cmnd55_crop_16.jpg	Nơi thường trú:
+crop_img/cmnd55_crop_17.jpg	Có giá trị đến:
+crop_img/cmnd55_crop_18.jpg	11/07/1987
+crop_img/cmnd56_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd56_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd56_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd56_crop_3.jpg	042297018122
+crop_img/cmnd56_crop_4.jpg	Họ và tên:
+crop_img/cmnd56_crop_5.jpg	PHAN HUY HOÀNG HIỆP
+crop_img/cmnd56_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd56_crop_7.jpg	16/05/1997
+crop_img/cmnd56_crop_8.jpg	Giới tính:
+crop_img/cmnd56_crop_9.jpg	Quê quán:
+crop_img/cmnd56_crop_10.jpg	Thạch Châu, Lộc Hà
+crop_img/cmnd56_crop_11.jpg	Nơi thường trú:
+crop_img/cmnd56_crop_12.jpg	Hà Tĩnh
+crop_img/cmnd56_crop_13.jpg	16/05/2037
+crop_img/cmnd56_crop_14.jpg	Ứng Hòa, Hà Nội
+crop_img/cmnd56_crop_15.jpg	Số:
+crop_img/cmnd56_crop_16.jpg	Nam
+crop_img/cmnd56_crop_17.jpg	Quốc tịch:
+crop_img/cmnd56_crop_18.jpg	Việt Nam
+crop_img/cmnd56_crop_19.jpg	Có giá trị đến:
+crop_img/cmnd56_crop_20.jpg	Thôn Ngoại Độ, Đôi Bình
+crop_img/cmnd58_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd58_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd58_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd58_crop_3.jpg	206207791
+crop_img/cmnd58_crop_4.jpg	TRƯƠNG THỊ THU HƯƠNG
+crop_img/cmnd58_crop_5.jpg	Sinh ngày:
+crop_img/cmnd58_crop_6.jpg	30-09-1998
+crop_img/cmnd58_crop_7.jpg	Nguyên quán:
+crop_img/cmnd58_crop_8.jpg	Bình Triều
+crop_img/cmnd58_crop_9.jpg	Thăng Bình, Quảng Nam
+crop_img/cmnd58_crop_10.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd58_crop_11.jpg	Thôn 1
+crop_img/cmnd58_crop_12.jpg	Bình Triều, Thăng Bình, Quảng Nam
+crop_img/cmnd58_crop_13.jpg	SỐ
+crop_img/cmnd58_crop_14.jpg	Họ tên:
+crop_img/cmnd59_crop_0.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd59_crop_1.jpg	668609178
+crop_img/cmnd59_crop_2.jpg	ĐÀO THỊ MỸ LINH
+crop_img/cmnd59_crop_3.jpg	Sinh ngày:
+crop_img/cmnd59_crop_4.jpg	Nguyên quán:
+crop_img/cmnd59_crop_5.jpg	07-11-1995
+crop_img/cmnd59_crop_6.jpg	Xã Tràng An
+crop_img/cmnd59_crop_7.jpg	Huyện Bình Lục, Hà Nam
+crop_img/cmnd59_crop_8.jpg	Xã Tràng An
+crop_img/cmnd59_crop_9.jpg	Huyện Bình Lục, Hà Nam
+crop_img/cmnd59_crop_10.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd59_crop_11.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd59_crop_12.jpg	SỐ
+crop_img/cmnd59_crop_13.jpg	Họ tên:
+crop_img/cmnd59_crop_14.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd60_crop_0.jpg	CONG HOA XHOICHU NGHAVNAM
+crop_img/cmnd60_crop_1.jpg	Doc lapTu doHanh phu
+crop_img/cmnd60_crop_2.jpg	CHUNG MINH NHAN DAN
+crop_img/cmnd60_crop_3.jpg	s6031085000427
+crop_img/cmnd60_crop_4.jpg	H n ai 
+crop_img/cmnd60_crop_5.jpg	FAKER:NGUYEN TiNH
+crop_img/cmnd60_crop_6.jpg	Ho  n goi 
+crop_img/cmnd60_crop_7.jpg	Ngthng.10/05/1985
+crop_img/cmnd60_crop_8.jpg	Tryc Ninh,Nam jnh
+crop_img/cmnd60_crop_9.jpg	Dan e Kinh
+crop_img/cmnd60_crop_10.jpg	Qub-quan
+crop_img/cmnd60_crop_11.jpg	N0ng tru
+crop_img/cmnd60_crop_12.jpg	Du Hang.Le ChanHai Phong
+crop_img/cmnd60_crop_13.jpg	S260
+crop_img/cmnd60_crop_14.jpg	15/09/2029
+crop_img/cmnd60_crop_15.jpg	TEMPORARY
+crop_img/cmnd60_crop_16.jpg	TEMPORARY
+crop_img/cmnd60_crop_17.jpg	TEMPORARY
+crop_img/cmnd60_crop_18.jpg	TEMPORARY
+crop_img/cmnd60_crop_19.jpg	TEMPORARY
+crop_img/cmnd61_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd61_crop_1.jpg	SOCIALIST REPUBLIC OF VIET NAM
+crop_img/cmnd61_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd61_crop_3.jpg	Citizen Identity Card
+crop_img/cmnd61_crop_4.jpg	Số / No:
+crop_img/cmnd61_crop_5.jpg	Họ và tên / Full name:
+crop_img/cmnd61_crop_6.jpg	NGUYỄN THÁI NHẤT
+crop_img/cmnd61_crop_7.jpg	Ngày sinh / Date of birth:
+crop_img/cmnd61_crop_8.jpg	Giới tính / Sex:
+crop_img/cmnd61_crop_9.jpg	Quê quán / Place of origin:
+crop_img/cmnd61_crop_10.jpg	Có giá trị đến:
+crop_img/cmnd61_crop_11.jpg	Nơi thường trú / Palce of residence:
+crop_img/cmnd61_crop_12.jpg	TDP Thượng
+crop_img/cmnd61_crop_13.jpg	Thị trấn Bích Động, Việt Yên, Bắc Giang
+crop_img/cmnd61_crop_14.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd61_crop_15.jpg	Independence-Freedom-Happiness
+crop_img/cmnd61_crop_16.jpg	Nam
+crop_img/cmnd61_crop_17.jpg	Quốc tịch / Nationality:
+crop_img/cmnd61_crop_18.jpg	Việt Nam
+crop_img/cmnd61_crop_19.jpg	Thị trấn Bích Động, Việt Yên, Bắc Giang
+crop_img/cmnd61_crop_20.jpg	22/12/1987
+crop_img/cmnd62_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd62_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd62_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd62_crop_3.jpg	079093001016
+crop_img/cmnd62_crop_4.jpg	Họ và tên:
+crop_img/cmnd62_crop_5.jpg	NGUYỄN CÔNG DANH
+crop_img/cmnd62_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd62_crop_7.jpg	Việt Nam
+crop_img/cmnd62_crop_8.jpg	Quê quán:
+crop_img/cmnd62_crop_9.jpg	Quảng Phước, Quảng Điền
+crop_img/cmnd62_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd62_crop_11.jpg	Thừa Thiên Huế
+crop_img/cmnd62_crop_12.jpg	Quận 7, TP. Hồ Chí Minh
+crop_img/cmnd62_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd62_crop_14.jpg	Số:
+crop_img/cmnd62_crop_15.jpg	17/07/1993
+crop_img/cmnd62_crop_16.jpg	Giới tính:
+crop_img/cmnd62_crop_17.jpg	Nam
+crop_img/cmnd62_crop_18.jpg	Quốc tịch:
+crop_img/cmnd62_crop_19.jpg	4672 KP3, Tân Thuận Tây
+crop_img/cmnd62_crop_20.jpg	17/07/2018
+crop_img/cmnd63_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd63_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd63_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd63_crop_3.jpg	001198016073
+crop_img/cmnd63_crop_4.jpg	Họ và tên:
+crop_img/cmnd63_crop_5.jpg	NGO BAO TRAM
+crop_img/cmnd63_crop_6.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd63_crop_7.jpg	Giới tính:
+crop_img/cmnd63_crop_8.jpg	Quốc tịch:
+crop_img/cmnd63_crop_9.jpg	Quê quán:
+crop_img/cmnd63_crop_10.jpg	Nơi thường trú:
+crop_img/cmnd63_crop_11.jpg	Thanh Xuân Trung, Thanh Xuân, Hà Nội
+crop_img/cmnd63_crop_12.jpg	Có giá trị đến:
+crop_img/cmnd63_crop_13.jpg	Số:
+crop_img/cmnd63_crop_14.jpg	22/02/1998
+crop_img/cmnd63_crop_15.jpg	Nữ
+crop_img/cmnd63_crop_16.jpg	Việt Nam
+crop_img/cmnd63_crop_17.jpg	Thanh Xuân, Hà Nội
+crop_img/cmnd63_crop_18.jpg	Số 128 Nguyễn Huy Tưởng
+crop_img/cmnd63_crop_19.jpg	22/02/2023
+crop_img/cmnd64_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd64_crop_1.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd64_crop_2.jpg	Số:
+crop_img/cmnd64_crop_3.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd64_crop_4.jpg	VÕ ĐÀO HUỆ ÁNH
+crop_img/cmnd64_crop_5.jpg	Giới tính:
+crop_img/cmnd64_crop_6.jpg	Hòa Phú, Ứng Hòa, Hà Nội
+crop_img/cmnd64_crop_7.jpg	Quốc tịch:
+crop_img/cmnd64_crop_8.jpg	Có giá trị đến:
+crop_img/cmnd64_crop_9.jpg	Tân Triều, Thanh Trì, Hà Nội
+crop_img/cmnd64_crop_10.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd64_crop_11.jpg	Họ và tên:
+crop_img/cmnd64_crop_12.jpg	Nữ
+crop_img/cmnd64_crop_13.jpg	Việt Nam
+crop_img/cmnd64_crop_14.jpg	Quê quán:
+crop_img/cmnd64_crop_15.jpg	Nơi thường trú:
+crop_img/cmnd64_crop_16.jpg	Xóm Chùa,
+crop_img/cmnd64_crop_17.jpg	15/12/2003
+crop_img/cmnd65_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd65_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd65_crop_2.jpg	SOCIALIST REPUBLIC OF VIET NAM
+crop_img/cmnd65_crop_3.jpg	Independence-Freedom-Happiness
+crop_img/cmnd65_crop_4.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd65_crop_5.jpg	Citizen Identity Card
+crop_img/cmnd65_crop_6.jpg	001204014664
+crop_img/cmnd65_crop_7.jpg	Số / No:
+crop_img/cmnd65_crop_8.jpg	Họ và tên / Full name:
+crop_img/cmnd65_crop_9.jpg	NGUYỄN MINH QUÂN
+crop_img/cmnd65_crop_10.jpg	Ngày sinh / Date of birth:
+crop_img/cmnd65_crop_11.jpg	Giới tính / Sex:
+crop_img/cmnd65_crop_12.jpg	Quê quán / Place of origin:
+crop_img/cmnd65_crop_13.jpg	Hào Long, Thành phố Bắc Ninh, Bắc Ninh
+crop_img/cmnd65_crop_14.jpg	Nơi thường trú / Palce of residence:
+crop_img/cmnd65_crop_15.jpg	Có giá trị đến:
+crop_img/cmnd65_crop_16.jpg	Liễu Giai, Ba Đình, Hà Nội
+crop_img/cmnd65_crop_17.jpg	Date of expiry:
+crop_img/cmnd65_crop_18.jpg	09/09/2004
+crop_img/cmnd65_crop_19.jpg	Nam
+crop_img/cmnd65_crop_20.jpg	Quốc tịch / Nationality:
+crop_img/cmnd65_crop_21.jpg	Việt Nam
+crop_img/cmnd65_crop_22.jpg	218C Đội Cấn
+crop_img/cmnd65_crop_23.jpg	09/09/2029
+crop_img/cmnd66_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd66_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd66_crop_2.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd66_crop_3.jpg	Số:
+crop_img/cmnd66_crop_4.jpg	001202017557
+crop_img/cmnd66_crop_5.jpg	Họ và tên:
+crop_img/cmnd66_crop_6.jpg	PHAMQUOCPHUONG
+crop_img/cmnd66_crop_7.jpg	Ngày, tháng, năm sinh:
+crop_img/cmnd66_crop_8.jpg	Giới tính:
+crop_img/cmnd66_crop_9.jpg	Quốc tịch:
+crop_img/cmnd66_crop_10.jpg	Quê quán:
+crop_img/cmnd66_crop_11.jpg	Nơi thường trú:
+crop_img/cmnd66_crop_12.jpg	Ngô Thì Nhâm, Hai Bà Trưng, Hà Nôi
+crop_img/cmnd66_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd66_crop_14.jpg	15/08/2030
+crop_img/cmnd66_crop_15.jpg	17/01/2002
+crop_img/cmnd66_crop_16.jpg	Việt Nam
+crop_img/cmnd66_crop_17.jpg	Nam
+crop_img/cmnd66_crop_18.jpg	Hà Nội
+crop_img/cmnd66_crop_19.jpg	30 Phùng Khắc Hoan
+crop_img/cmnd67_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd67_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd67_crop_2.jpg	SOCIALIST REPUBLIC OF VIET NAM
+crop_img/cmnd67_crop_3.jpg	Independence-Freedom-Happinress
+crop_img/cmnd67_crop_4.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd67_crop_5.jpg	Citizen Identity Card
+crop_img/cmnd67_crop_6.jpg	008204004949
+crop_img/cmnd67_crop_7.jpg	Số / No:
+crop_img/cmnd67_crop_8.jpg	Họ và tên / Full name:
+crop_img/cmnd67_crop_9.jpg	PHAN HỮU HẠNH
+crop_img/cmnd67_crop_10.jpg	Ngày sinh / Date of birth:
+crop_img/cmnd67_crop_11.jpg	Quê quán / Place of origin:
+crop_img/cmnd67_crop_12.jpg	Trường Sinh, Sơn Dương, Tuyên Quang
+crop_img/cmnd67_crop_13.jpg	Nơi thường trú / Palce of residence:
+crop_img/cmnd67_crop_14.jpg	Date of expiry:
+crop_img/cmnd67_crop_15.jpg	Trường Sinh, Sơn Dương, Tuyên Quang
+crop_img/cmnd67_crop_16.jpg	07/06/2004
+crop_img/cmnd67_crop_17.jpg	Việt Nam
+crop_img/cmnd67_crop_18.jpg	Quốc tịch / Nationality:
+crop_img/cmnd67_crop_19.jpg	Nam
+crop_img/cmnd67_crop_20.jpg	Giới tính / Sex:
+crop_img/cmnd67_crop_21.jpg	Thôn Quyết Tiến
+crop_img/cmnd67_crop_22.jpg	Có giá trị đến:
+crop_img/cmnd67_crop_23.jpg	07/06/2029
+crop_img/cmnd68_crop_0.jpg	SOCIALIST REPUBLIC OF VIET NAM
+crop_img/cmnd68_crop_1.jpg	CĂN CƯỚC CÔNG DÂN
+crop_img/cmnd68_crop_2.jpg	Citizen Identity Card
+crop_img/cmnd68_crop_3.jpg	Số  No:
+crop_img/cmnd68_crop_4.jpg	Họ và tên / Full name:
+crop_img/cmnd68_crop_5.jpg	TRẦN VĂN TÁM
+crop_img/cmnd68_crop_6.jpg	Ngày sinh / Date of birth:
+crop_img/cmnd68_crop_7.jpg	Giới tính / Sex:
+crop_img/cmnd68_crop_8.jpg	Việt Nam
+crop_img/cmnd68_crop_9.jpg	Quế Hiệp, Quế Sơn, Quảng Nam
+crop_img/cmnd68_crop_10.jpg	Quê quán / Place of origin:
+crop_img/cmnd68_crop_11.jpg	01/01/2032
+crop_img/cmnd68_crop_12.jpg	Nơi thường trú / Palce of residence:
+crop_img/cmnd68_crop_13.jpg	Có giá trị đến:
+crop_img/cmnd68_crop_14.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd68_crop_15.jpg	Nam
+crop_img/cmnd68_crop_16.jpg	Quốc tịch / Nationality:
+crop_img/cmnd68_crop_17.jpg	09/09/2004
+crop_img/cmnd68_crop_18.jpg	001204014664
+crop_img/cmnd68_crop_19.jpg	Thôn Lộc Thượng
+crop_img/cmnd69_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd69_crop_1.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd69_crop_2.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd69_crop_3.jpg	241540979
+crop_img/cmnd69_crop_4.jpg	Họ tên:
+crop_img/cmnd69_crop_5.jpg	STAR TUẤN BLOG
+crop_img/cmnd69_crop_6.jpg	Sinh ngày:
+crop_img/cmnd69_crop_7.jpg	01-01-2016
+crop_img/cmnd69_crop_8.jpg	Nguyên quán:
+crop_img/cmnd69_crop_9.jpg	Việt Nam
+crop_img/cmnd69_crop_10.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd69_crop_11.jpg	Việt Nam Quê Hương
+crop_img/cmnd69_crop_12.jpg	SỐ
+crop_img/cmnd70_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd70_crop_1.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd70_crop_2.jpg	602477861
+crop_img/cmnd70_crop_3.jpg	TRẦN TUẤN LINH
+crop_img/cmnd70_crop_4.jpg	03-09-1989
+crop_img/cmnd70_crop_5.jpg	Cẩm Đông
+crop_img/cmnd70_crop_6.jpg	Cẩm Phả, Quảng Ninh
+crop_img/cmnd70_crop_7.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd70_crop_8.jpg	472 CMT8
+crop_img/cmnd70_crop_9.jpg	Phường 11, Quận 1 TP. Hồ Chí Minh
+crop_img/cmnd70_crop_10.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd70_crop_11.jpg	SỐ
+crop_img/cmnd70_crop_12.jpg	Họ tên:
+crop_img/cmnd70_crop_13.jpg	Sinh ngày:
+crop_img/cmnd70_crop_14.jpg	Nguyên quán:
+crop_img/cmnd71_crop_0.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd71_crop_1.jpg	145786666
+crop_img/cmnd71_crop_2.jpg	21-05-1995
+crop_img/cmnd71_crop_3.jpg	Phú Lãm
+crop_img/cmnd71_crop_4.jpg	Hà Đông, Hà Nội
+crop_img/cmnd71_crop_5.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd71_crop_6.jpg	Phú Lãm
+crop_img/cmnd71_crop_7.jpg	Ha DongHa Noi
+crop_img/cmnd71_crop_8.jpg	SỐ
+crop_img/cmnd71_crop_9.jpg	NGUYỄN HỒNG ÁNH
+crop_img/cmnd71_crop_10.jpg	Họ tên:
+crop_img/cmnd71_crop_11.jpg	Sinh ngày:
+crop_img/cmnd71_crop_12.jpg	Nguyên quán:
+crop_img/cmnd72_crop_0.jpg	CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+crop_img/cmnd72_crop_1.jpg	GIẤY CHƯNG MINH NHÂN DÂN
+crop_img/cmnd72_crop_2.jpg	0341724821
+crop_img/cmnd72_crop_3.jpg	BAOTRONGIT.COM
+crop_img/cmnd72_crop_4.jpg	22-03-1990
+crop_img/cmnd72_crop_5.jpg	Nơi ĐKHK thường trú:
+crop_img/cmnd72_crop_6.jpg	P. An LộcTX. Hồng Ngự, Đồng Tháp
+crop_img/cmnd72_crop_7.jpg	Độc lập - Tự do - Hạnh phúc
+crop_img/cmnd72_crop_8.jpg	SỐ
+crop_img/cmnd72_crop_9.jpg	Họ tên:
+crop_img/cmnd72_crop_10.jpg	Sinh ngày:
+crop_img/cmnd72_crop_11.jpg	Nguyên quán:
+crop_img/cmnd72_crop_12.jpg	TX Hồng Ngự, Đồng Tháp
+crop_img/cmnd72_crop_13.jpg	Khóm An Thạch A
+crop_img/cmnd72_crop_14.jpg	P. An Lộc
